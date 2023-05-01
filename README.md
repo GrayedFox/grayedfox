@@ -7,3 +7,5 @@
 - 📚 Nietzsche, Simone de Beauvoir, Socrates
 - 🌱 Sustainability, Equality, Innovation, AI, Data Science
 - 🏳️‍🌈 he/they
+
+[![GrayedFox's GitHub stats](https://github-readme-stats.vercel.app/api?username=grayedfox)]

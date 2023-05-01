@@ -1,6 +1,6 @@
 ### Hello Saturn 🪐
 
-#### I'm GrayedFox and I like philosophy, coding, martial arts, and music.
+#### I'm Che and I like philosophy, coding, martial arts, and music.
 
 - 📝 JS, Node, C#,
 - 💜 Automation, Tooling, Process Management

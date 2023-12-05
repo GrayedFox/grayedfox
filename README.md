@@ -2,7 +2,7 @@
 
 #### I'm Che and I like philosophy, coding, martial arts, and music.
 
-- 📝 TypeScript, JavaScript, NodeJS, Python, C#, BASH
+- 📝 TypeScript, JavaScript, NodeJS, C#, Python, BASH
 - 💜 Automation, Tooling, Process Management
 - 📚 Nietzsche, Simone de Beauvoir, Socrates
 - 🌱 Sustainability, Equality, Innovation, AI, Data Science
